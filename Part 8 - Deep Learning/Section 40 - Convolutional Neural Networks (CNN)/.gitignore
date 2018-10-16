@@ -1,0 +1,7 @@
+data/ml-latest-small/*
+__pycache__/*
+.DS_Store
+.DS_Stores
+Convolutional_Neural_Networks/dataset/test_set/*
+Convolutional_Neural_Networks/dataset/training_set/*
+Convolutional_Neural_Networks.zip
